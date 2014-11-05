@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/geotec/!svn/ver/10/PollutionWebGIS/trunk/PollutionWebGIS
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/geotec/!svn/ver/8/PollutionWebGIS/trunk/PollutionWebGIS/.project
+END
+warbuilder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/geotec/!svn/ver/10/PollutionWebGIS/trunk/PollutionWebGIS/warbuilder.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/geotec/!svn/ver/8/PollutionWebGIS/trunk/PollutionWebGIS/.classpath
+END

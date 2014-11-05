@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/geotec/!svn/ver/8/PollutionWebGIS/trunk/PollutionWebGIS/war/WEB-INF/lib
+END
+gwt-openlayers-client-0.6-SNAPSHOT.jar
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/geotec/!svn/ver/8/PollutionWebGIS/trunk/PollutionWebGIS/war/WEB-INF/lib/gwt-openlayers-client-0.6-SNAPSHOT.jar
+END
+postgresql-9.1-901.jdbc3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/geotec/!svn/ver/8/PollutionWebGIS/trunk/PollutionWebGIS/war/WEB-INF/lib/postgresql-9.1-901.jdbc3.jar
+END
+gwt-openlayers-server-0.6-SNAPSHOT.jar
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/geotec/!svn/ver/8/PollutionWebGIS/trunk/PollutionWebGIS/war/WEB-INF/lib/gwt-openlayers-server-0.6-SNAPSHOT.jar
+END
+gwt-servlet.jar
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/geotec/!svn/ver/8/PollutionWebGIS/trunk/PollutionWebGIS/war/WEB-INF/lib/gwt-servlet.jar
+END

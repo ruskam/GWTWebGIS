@@ -1,0 +1,113 @@
+10
+
+dir
+10
+https://forja.uji.es/svn/geotec/PollutionWebGIS/trunk/PollutionWebGIS/.metadata/.plugins
+https://forja.uji.es/svn/geotec
+
+
+
+2012-03-26T15:14:33.995318Z
+8
+al192907
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7d9a25c8-ad57-4210-99ca-a98e3e98a5be
+
+
+
+
+
+
+0
+
+com.google.appengine.eclipse.core
+dir
+
+com.google.gdt.eclipse.managedapis
+dir
+
+com.google.gwt.eclipse.core
+dir
+
+org.eclipse.core.resources
+dir
+
+org.eclipse.core.runtime
+dir
+
+org.eclipse.datatools.connectivity
+dir
+
+org.eclipse.debug.core
+dir
+
+org.eclipse.epp.usagedata.recording
+dir
+
+org.eclipse.jdt.core
+dir
+
+org.eclipse.jdt.launching
+dir
+
+org.eclipse.jdt.ui
+dir
+
+org.eclipse.ltk.core.refactoring
+dir
+
+org.eclipse.ltk.ui.refactoring
+dir
+
+org.eclipse.mylyn.bugzilla.core
+dir
+
+org.eclipse.mylyn.tasks.ui
+dir
+
+org.eclipse.pde.core
+dir
+
+org.eclipse.team.cvs.core
+dir
+
+org.eclipse.ui.ide
+dir
+
+org.eclipse.ui.intro
+dir
+
+org.eclipse.ui.workbench
+dir
+
+org.eclipse.wb.discovery.core
+dir
+
+org.eclipse.wst.common.modulecore
+dir
+
+org.eclipse.wst.common.snippets
+dir
+
+org.eclipse.wst.jsdt.core
+dir
+
+org.eclipse.wst.jsdt.ui
+dir
+
+org.eclipse.wst.server.core
+dir
+

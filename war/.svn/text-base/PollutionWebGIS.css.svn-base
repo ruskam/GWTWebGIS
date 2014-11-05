@@ -1,0 +1,13 @@
+/** Add css rules here for your application. */
+
+html, body {
+	width: 100%;
+	height: 100%;
+   	margin: 0;
+	padding: 0;
+}
+    
+#pollution-container {
+	height: 500px;
+	width: 500px;
+}

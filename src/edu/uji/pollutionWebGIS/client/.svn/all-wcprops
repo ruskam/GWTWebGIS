@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/geotec/!svn/ver/9/PollutionWebGIS/trunk/PollutionWebGIS/src/edu/uji/pollutionWebGIS/client
+END
+LoadingWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/geotec/!svn/ver/9/PollutionWebGIS/trunk/PollutionWebGIS/src/edu/uji/pollutionWebGIS/client/LoadingWidget.java
+END
+MyRPCServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/geotec/!svn/ver/8/PollutionWebGIS/trunk/PollutionWebGIS/src/edu/uji/pollutionWebGIS/client/MyRPCServiceAsync.java
+END
+DatabaseInfoWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/geotec/!svn/ver/8/PollutionWebGIS/trunk/PollutionWebGIS/src/edu/uji/pollutionWebGIS/client/DatabaseInfoWidget.java
+END
+MyRPCService.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/geotec/!svn/ver/8/PollutionWebGIS/trunk/PollutionWebGIS/src/edu/uji/pollutionWebGIS/client/MyRPCService.java
+END
+PollutionWebGIS.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/geotec/!svn/ver/8/PollutionWebGIS/trunk/PollutionWebGIS/src/edu/uji/pollutionWebGIS/client/PollutionWebGIS.java
+END
+SurfaceData.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/geotec/!svn/ver/8/PollutionWebGIS/trunk/PollutionWebGIS/src/edu/uji/pollutionWebGIS/client/SurfaceData.java
+END
+RPCInit.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/geotec/!svn/ver/8/PollutionWebGIS/trunk/PollutionWebGIS/src/edu/uji/pollutionWebGIS/client/RPCInit.java
+END
+PollutionData.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/geotec/!svn/ver/8/PollutionWebGIS/trunk/PollutionWebGIS/src/edu/uji/pollutionWebGIS/client/PollutionData.java
+END
+MapWidgetExt.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/geotec/!svn/ver/8/PollutionWebGIS/trunk/PollutionWebGIS/src/edu/uji/pollutionWebGIS/client/MapWidgetExt.java
+END

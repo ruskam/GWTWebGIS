@@ -1,0 +1,2 @@
+serviceClass: edu.uji.pollutionWebGIS.client.MyRPCService
+path: 20E9E5142DAEA32F134E69543F2F3BAA.gwt.rpc
