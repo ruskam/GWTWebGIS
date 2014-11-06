@@ -1,7 +1,7 @@
 GWTWebGIS
 =========
 
-Web-enabled mapping application. Written purely in Java using Google Web Toolkit framework and Java wrapper for OpenLayer Web mapping library.
+Web-enabled mapping application. Written purely in Java using Google Web Toolkit framework and Java wrapper for OpenLayer Web mapping library. The project development took place from November 2011 through January 2012.
 
 The application facilitates monitoring of air pollution sources and their possible influence on human populations. It advances environmental monitoring by means of Web mapping tools and user-friendly interfaces. The application also provides data query functions to reveal:
 
