@@ -23,11 +23,10 @@ public abstract class MyPostGISConnection{
 		Connection conn = null;
 			
 		String url = "jdbc:postgresql://localhost:5432/";
-		//String url = "jdbc:postgresql://geoinfo.dlsi.uji.es:5432/";
 		String db = "mydb";
 		String driver = "org.postgresql.Driver";
-		String username = "postgres";
-		String password = "jananina";
+		String username = "myUserName";
+		String password = "myPassword";
 		url = url + db;
 			
 		try {
@@ -43,10 +42,6 @@ public abstract class MyPostGISConnection{
 			System.out.println("--------can't get MyPostGISConnection");
 		}
 		
-		/*getResultSet();
-		getResultSet();
-		statement = conn.createStatement(ResultSet.TYPE_SCROLL_INSENSITIVE,ResultSet.CONCUR_UPDATABLE);*/
-			
 		return conn;
 		}
 	
